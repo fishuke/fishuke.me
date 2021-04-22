@@ -1,1 +1,192 @@
-const a5_0x3f06=['.content__text-wrap','then','classList','remove','easeOut','function','424916RGniEO','894560wDkWEj','onClickNextFn','textsTotal','5517CvibTP','hideImage','querySelectorAll','showImage','322898RXCvJO','img','toggleImage','.content__img-inner','navigate','328162vaEGET','slides','style','isAnimating','loopInterval','-100%','.content__nav-button--next','click','wrap','forEach','show','slidesTotal','addEventListener','textFX','onClickPrevFn','hide','toggleText','9778WZcxQd','-110%','body','100%','current','nav','7ZPksYk','hideText','down','next','middleIdx','texts','loopEndIddleTime','length','add','380488PRTgEi','showText','opacity','floor','querySelector','.content__slide','DOM','prev','begin','content__slide--current','initEvents','.content'];const a5_0x128afc=a5_0x7c50;function a5_0x7c50(_0x3b7f2a,_0x4a76d0){_0x3b7f2a=_0x3b7f2a-0x11e;let _0x3f066a=a5_0x3f06[_0x3b7f2a];return _0x3f066a;}(function(_0x323678,_0x152a0b){const _0x2d2252=a5_0x7c50;while(!![]){try{const _0x357415=parseInt(_0x2d2252(0x14a))+-parseInt(_0x2d2252(0x152))+-parseInt(_0x2d2252(0x157))+parseInt(_0x2d2252(0x12f))*-parseInt(_0x2d2252(0x129))+-parseInt(_0x2d2252(0x138))+-parseInt(_0x2d2252(0x14e))+parseInt(_0x2d2252(0x14b));if(_0x357415===_0x152a0b)break;else _0x323678['push'](_0x323678['shift']());}catch(_0x2ad4be){_0x323678['push'](_0x323678['shift']());}}}(a5_0x3f06,0x343cd));{class TextFX{constructor(_0x2677ed){const _0x44bc33=a5_0x7c50;this['DOM']={'el':_0x2677ed},this['DOM']['texts']=[...this[_0x44bc33(0x13e)]['el']['querySelectorAll']('.content__text')],this[_0x44bc33(0x13e)][_0x44bc33(0x14d)]=this[_0x44bc33(0x13e)]['texts']['length'],this[_0x44bc33(0x133)]=Math[_0x44bc33(0x13b)](this[_0x44bc33(0x13e)]['textsTotal']/0x2),this[_0x44bc33(0x15b)]={'show':0x50,'hide':0x50},this[_0x44bc33(0x135)]=this[_0x44bc33(0x15b)]['show'];}[a5_0x128afc(0x122)]({dir:dir='both',halfwayCallback:halfwayCallback=null}={}){return new Promise((_0xd70763,_0x4b6053)=>{const _0xd143ac=_0x31f3fb=>{const _0x41ce18=a5_0x7c50;if(this[_0x41ce18(0x133)]-_0x31f3fb===this[_0x41ce18(0x133)]){setTimeout(_0xd70763,this[_0x41ce18(0x135)]);return;}this[_0x41ce18(0x130)](_0x31f3fb,dir),setTimeout(()=>_0xd143ac(_0x31f3fb-0x1),this[_0x41ce18(0x15b)][_0x41ce18(0x127)]);},_0x5c538b=_0x29cb55=>{const _0x5cec25=a5_0x7c50;if(this[_0x5cec25(0x133)]-_0x29cb55>this[_0x5cec25(0x133)]){halfwayCallback&&typeof halfwayCallback===_0x5cec25(0x149)&&halfwayCallback();_0xd143ac(this[_0x5cec25(0x133)]);return;}this[_0x5cec25(0x139)](_0x29cb55,dir),setTimeout(()=>_0x5c538b(_0x29cb55-0x1),this[_0x5cec25(0x15b)]['show']);};_0x5c538b(this['middleIdx']);});}[a5_0x128afc(0x127)]({dir:dir='both',halfwayCallback:halfwayCallback=null}={}){return new Promise((_0x54bcb0,_0x401e0d)=>{const _0x40502a=_0x4675fb=>{const _0x30d652=a5_0x7c50;if(this['middleIdx']-_0x4675fb<0x0){setTimeout(_0x54bcb0,this[_0x30d652(0x135)]);return;}this[_0x30d652(0x130)](_0x4675fb,dir),setTimeout(()=>_0x40502a(_0x4675fb+0x1),this[_0x30d652(0x15b)][_0x30d652(0x127)]);},_0x576467=_0x23d1b2=>{const _0x322bf4=a5_0x7c50;if(this[_0x322bf4(0x133)]-_0x23d1b2<0x0){halfwayCallback&&typeof halfwayCallback===_0x322bf4(0x149)&&halfwayCallback();_0x40502a(0x0);return;}this['showText'](_0x23d1b2,dir),setTimeout(()=>_0x576467(_0x23d1b2+0x1),this[_0x322bf4(0x15b)][_0x322bf4(0x122)]);};_0x576467(0x1);});}[a5_0x128afc(0x130)](_0x7e73b6,_0x4bf26f){const _0x24a5bd=a5_0x128afc;this[_0x24a5bd(0x128)]('hide',_0x7e73b6,_0x4bf26f);}[a5_0x128afc(0x139)](_0x33641f,_0x14c978){this['toggleText']('show',_0x33641f,_0x14c978);}['toggleText'](_0x5949a7,_0x24b5ba,_0x2299b5){const _0x123384=a5_0x128afc,_0x405cd9={'up':_0xde879b=>{const _0x5a38b8=a5_0x7c50;this[_0x5a38b8(0x13e)][_0x5a38b8(0x134)][this[_0x5a38b8(0x133)]-_0x24b5ba][_0x5a38b8(0x159)][_0x5a38b8(0x13a)]=_0x5949a7===_0x5a38b8(0x122)?0x1:0x0;},'down':_0x4f589d=>{const _0x113dd2=a5_0x7c50;this[_0x113dd2(0x13e)][_0x113dd2(0x134)][this['middleIdx']+_0x24b5ba]['style']['opacity']=_0x5949a7===_0x113dd2(0x122)?0x1:0x0;}};_0x2299b5==='both'?(_0x405cd9['up'](),_0x405cd9[_0x123384(0x131)]()):_0x405cd9[_0x2299b5]();}}class Slide{constructor(_0xc9f45a){const _0x1b35d1=a5_0x128afc;this[_0x1b35d1(0x13e)]={'el':_0xc9f45a},this[_0x1b35d1(0x13e)][_0x1b35d1(0x153)]={'wrap':this['DOM']['el'][_0x1b35d1(0x13c)]('.content__img'),'inner':this[_0x1b35d1(0x13e)]['el'][_0x1b35d1(0x13c)](_0x1b35d1(0x155))},this[_0x1b35d1(0x125)]=new TextFX(this[_0x1b35d1(0x13e)]['el'][_0x1b35d1(0x13c)](_0x1b35d1(0x144)));}[a5_0x128afc(0x14f)](_0x4b7769){const _0x37bb5e=a5_0x128afc;this[_0x37bb5e(0x154)](_0x37bb5e(0x127),_0x4b7769);}[a5_0x128afc(0x151)](_0x590014){const _0x1374f3=a5_0x128afc;this[_0x1374f3(0x154)]('show',_0x590014);}[a5_0x128afc(0x154)](_0x5087db,_0xd0ab04){const _0x46a790=a5_0x128afc;new TimelineMax()[_0x46a790(0x137)](_0x46a790(0x140))['to'](this[_0x46a790(0x13e)][_0x46a790(0x153)][_0x46a790(0x120)],_0x5087db===_0x46a790(0x127)?0.3:0.7,{'ease':_0x5087db===_0x46a790(0x127)?Quint[_0x46a790(0x148)]:Quint[_0x46a790(0x148)],'startAt':_0x5087db===_0x46a790(0x127)?{}:{'x':_0xd0ab04==='next'?'110%':_0x46a790(0x12a),'opacity':0x1},'x':_0x5087db===_0x46a790(0x127)?_0xd0ab04===_0x46a790(0x132)?'-110%':'110%':'0%'},_0x46a790(0x140))['to'](this[_0x46a790(0x13e)][_0x46a790(0x153)]['inner'],_0x5087db===_0x46a790(0x127)?0.3:0.7,{'ease':_0x5087db===_0x46a790(0x127)?Quint[_0x46a790(0x148)]:Quint[_0x46a790(0x148)],'startAt':_0x5087db===_0x46a790(0x127)?{}:{'x':_0xd0ab04==='next'?_0x46a790(0x15c):_0x46a790(0x12c)},'x':_0x5087db===_0x46a790(0x127)?_0xd0ab04===_0x46a790(0x132)?_0x46a790(0x12c):_0x46a790(0x15c):'0%'},_0x46a790(0x140));}}class Slideshow{constructor(_0x535f5f){const _0xf4a5ee=a5_0x128afc;this[_0xf4a5ee(0x13e)]={'el':_0x535f5f},this[_0xf4a5ee(0x13e)]['nav']={'prev':this[_0xf4a5ee(0x13e)]['el'][_0xf4a5ee(0x13c)]('.content__nav-button--prev'),'next':this[_0xf4a5ee(0x13e)]['el']['querySelector'](_0xf4a5ee(0x11e))},this[_0xf4a5ee(0x158)]=[],[...this[_0xf4a5ee(0x13e)]['el'][_0xf4a5ee(0x150)](_0xf4a5ee(0x13d))][_0xf4a5ee(0x121)](_0xd87584=>this[_0xf4a5ee(0x158)]['push'](new Slide(_0xd87584))),this[_0xf4a5ee(0x123)]=this[_0xf4a5ee(0x158)][_0xf4a5ee(0x136)],this[_0xf4a5ee(0x12d)]=0x0,this[_0xf4a5ee(0x158)][this['current']][_0xf4a5ee(0x13e)]['el'][_0xf4a5ee(0x146)]['add'](_0xf4a5ee(0x141)),this[_0xf4a5ee(0x142)]();}[a5_0x128afc(0x142)](){const _0x2553c0=a5_0x128afc;this[_0x2553c0(0x126)]=_0x42a0cd=>this[_0x2553c0(0x156)](_0x2553c0(0x13f)),this[_0x2553c0(0x14c)]=_0x119ddb=>this[_0x2553c0(0x156)](_0x2553c0(0x132)),this[_0x2553c0(0x13e)][_0x2553c0(0x12e)][_0x2553c0(0x13f)][_0x2553c0(0x124)](_0x2553c0(0x11f),this[_0x2553c0(0x126)]),this[_0x2553c0(0x13e)][_0x2553c0(0x12e)][_0x2553c0(0x132)][_0x2553c0(0x124)](_0x2553c0(0x11f),this[_0x2553c0(0x14c)]);}[a5_0x128afc(0x156)](_0x43f441){const _0x289502=a5_0x128afc;if(this[_0x289502(0x15a)])return![];this[_0x289502(0x15a)]=!![];const _0x52f191=this[_0x289502(0x158)][this[_0x289502(0x12d)]];this[_0x289502(0x12d)]=_0x43f441==='next'?this['current']<this[_0x289502(0x123)]-0x1?this[_0x289502(0x12d)]+0x1:0x0:this[_0x289502(0x12d)]>0x0?this[_0x289502(0x12d)]-0x1:this[_0x289502(0x123)]-0x1;const _0x11eec4=this[_0x289502(0x158)][this['current']],_0x4bddd1=()=>{const _0x12f54f=_0x289502;_0x52f191[_0x12f54f(0x14f)](_0x43f441),_0x11eec4[_0x12f54f(0x125)][_0x12f54f(0x13e)][_0x12f54f(0x134)][_0x11eec4[_0x12f54f(0x125)][_0x12f54f(0x133)]][_0x12f54f(0x159)]['opacity']=0x0,_0x11eec4[_0x12f54f(0x13e)]['el'][_0x12f54f(0x146)][_0x12f54f(0x137)]('content__slide--current'),_0x11eec4[_0x12f54f(0x151)](_0x43f441);},_0x203391=()=>{const _0x2e64aa=_0x289502;_0x52f191[_0x2e64aa(0x13e)]['el'][_0x2e64aa(0x146)][_0x2e64aa(0x147)](_0x2e64aa(0x141)),_0x11eec4[_0x2e64aa(0x125)][_0x2e64aa(0x122)]()[_0x2e64aa(0x145)](()=>this[_0x2e64aa(0x15a)]=![]);};_0x52f191[_0x289502(0x125)][_0x289502(0x127)]({'halfwayCallback':_0x4bddd1})['then'](_0x203391);}}new Slideshow(document[a5_0x128afc(0x13c)](a5_0x128afc(0x143))),imagesLoaded(document[a5_0x128afc(0x150)](a5_0x128afc(0x155)),{'background':!![]},()=>document[a5_0x128afc(0x12b)]['classList']['remove']('loading'));}
+{
+  class TextFX {
+    constructor(el) {
+      this.DOM = {el: el};
+      // The texts (repeated)
+      this.DOM.texts = [...this.DOM.el.querySelectorAll('.content__text')];
+      this.DOM.textsTotal = this.DOM.texts.length;
+      // The index of the main text element
+      this.middleIdx = Math.floor(this.DOM.textsTotal/2);
+      // Time between each showing/hiding of each text instance
+      this.loopInterval = {show: 80, hide: 80};
+      // optional: Extra time to the whole show/hide animation.
+      this.loopEndIddleTime = this.loopInterval.show;
+    }
+    show({dir = 'both', halfwayCallback = null} = {}) {
+      return new Promise((resolve, reject) => {
+        const loopHide = (pos) => {
+          if ( this.middleIdx-pos === this.middleIdx ) {
+            setTimeout(resolve, this.loopEndIddleTime);
+            return;
+          }
+          this.hideText(pos, dir);
+          setTimeout(() => loopHide(pos-1), this.loopInterval.hide);
+        };
+        const loopShow = (pos) => {
+          if ( this.middleIdx-pos > this.middleIdx ) {
+            if ( halfwayCallback && typeof halfwayCallback === 'function') {
+              halfwayCallback();
+            }
+            loopHide(this.middleIdx);
+            return;
+          }
+          this.showText(pos, dir);
+          setTimeout(() => loopShow(pos-1), this.loopInterval.show);
+        };
+        loopShow(this.middleIdx);
+      });
+    }
+    hide({dir = 'both', halfwayCallback = null} = {}) {
+      return new Promise((resolve, reject) => {
+        const loopHide = (pos) => {
+          if ( this.middleIdx-pos < 0 ) {
+            setTimeout(resolve, this.loopEndIddleTime);
+            return;
+          }
+          this.hideText(pos, dir);
+          setTimeout(() => loopHide(pos+1), this.loopInterval.hide);
+        };
+        const loopShow = (pos) => {
+          if ( this.middleIdx-pos < 0 ) {
+            if ( halfwayCallback && typeof halfwayCallback === 'function') {
+              halfwayCallback();
+            }
+            loopHide(0);
+            return;
+          }
+          this.showText(pos, dir);
+          setTimeout(() => loopShow(pos+1), this.loopInterval.show);
+        };
+        loopShow(1);
+      });
+    }
+    // Hides one (dir = 'up' or dir = 'down') or more texts, specifically the equally distant texts from main text (dir = 'both')
+    hideText(pos, dir) {
+      this.toggleText('hide', pos, dir);
+    }
+    showText(pos, dir) {
+      this.toggleText('show', pos, dir);
+    }
+    toggleText(action, pos, dir) {
+      const changeStyle = {
+        up: _ => {
+          this.DOM.texts[this.middleIdx-pos].style.opacity = action === 'show' ? 1 : 0;
+        },
+        down: _ => {
+          this.DOM.texts[this.middleIdx+pos].style.opacity = action === 'show' ? 1 : 0;
+        }
+      };
+      if ( dir === 'both' ) {
+        changeStyle['up']();
+        changeStyle['down']();
+      }
+      else {
+        changeStyle[dir]();
+      }
+    }
+  }
+
+  class Slide {
+    constructor(el) {
+      this.DOM = {el: el};
+      this.DOM.img = {
+        wrap: this.DOM.el.querySelector('.content__img'),
+        inner: this.DOM.el.querySelector('.content__img-inner')
+      };
+      // The text effect class.
+      this.textFX = new TextFX(this.DOM.el.querySelector('.content__text-wrap'));
+    }
+    // Hide the Slide's image
+    hideImage(dir) {
+      this.toggleImage('hide', dir);
+    }
+    // Show the Slide's image
+    showImage(dir) {
+      this.toggleImage('show', dir);
+    }
+    toggleImage(action, dir) {
+      new TimelineMax().add('begin')
+        .to(this.DOM.img.wrap, action === 'hide' ? 0.3 : 0.7, {
+          ease: action === 'hide' ? Quint.easeOut : Quint.easeOut,
+          startAt: action === 'hide' ? {} : {x: dir === 'next' ? '110%' : '-110%', opacity: 1},
+          x: action === 'hide' ? dir === 'next' ? '-110%' : '110%' : '0%'
+        }, 'begin')
+        .to(this.DOM.img.inner, action === 'hide' ? 0.3 : 0.7, {
+          ease: action === 'hide' ? Quint.easeOut : Quint.easeOut,
+          startAt: action === 'hide' ? {} : {x: dir === 'next' ? '-100%' : '100%'},
+          x: action === 'hide' ? dir === 'next' ? '100%' : '-100%' : '0%'
+        }, 'begin');
+    }
+  }
+
+  class Slideshow {
+    constructor(el) {
+      this.DOM = {el: el};
+      // Navigation controls
+      this.DOM.nav = {
+        prev: this.DOM.el.querySelector('.content__nav-button--prev'),
+        next: this.DOM.el.querySelector('.content__nav-button--next')
+      };
+      // All slides
+      this.slides = [];
+      [...this.DOM.el.querySelectorAll('.content__slide')].forEach(slide => this.slides.push(new Slide(slide)));
+      // Total number of slides
+      this.slidesTotal = this.slides.length;
+      // Current slide position
+      this.current = 0;
+      // Show the first one
+      this.slides[this.current].DOM.el.classList.add('content__slide--current');
+      // Initialize some events
+      this.initEvents();
+    }
+    initEvents() {
+      // Clicking next and previous controls.
+      this.onClickPrevFn = _ => this.navigate('prev');
+      this.onClickNextFn = _ => this.navigate('next');
+      this.DOM.nav.prev.addEventListener('click', this.onClickPrevFn);
+      this.DOM.nav.next.addEventListener('click', this.onClickNextFn);
+    }
+    navigate(dir) {
+      if ( this.isAnimating ) {
+        return false;
+      }
+      this.isAnimating = true;
+      // Current slide
+      const currentSlide = this.slides[this.current];
+
+      // Update current
+      this.current = dir === 'next' ?
+        this.current < this.slidesTotal - 1 ? this.current + 1 : 0 :
+        this.current > 0 ? this.current - 1 : this.slidesTotal - 1;
+
+      // Upcoming slide
+      const upcomingSlide = this.slides[this.current];
+
+      const onCurrentHalfwayCallback = () => {
+        // Hide the current slide's image
+        currentSlide.hideImage(dir);
+        // Set the upcoming slide's main text opacity to 1.
+        upcomingSlide.textFX.DOM.texts[upcomingSlide.textFX.middleIdx].style.opacity = 0;
+        // Add current class to the upcoming slide (opacity = 1)
+        upcomingSlide.DOM.el.classList.add('content__slide--current');
+        // Show the upcoming slide's image
+        upcomingSlide.showImage(dir);
+      };
+      const onCurrentEndCallback = () => {
+        // Remove the current class from the current slide.
+        currentSlide.DOM.el.classList.remove('content__slide--current');
+        upcomingSlide.textFX.show().then(() => this.isAnimating = false);
+      };
+      // Hide the current slide's text,
+      // and call onCurrentHalfwayCallback at half of the animation
+      // In the end call onCurrentEndCallback
+      currentSlide.textFX.hide({halfwayCallback: onCurrentHalfwayCallback}).then(onCurrentEndCallback);
+    }
+  }
+
+  // Initialize the slideshow
+  new Slideshow(document.querySelector('.content'));
+
+  // Preload all the images in the page
+  imagesLoaded(document.querySelectorAll('.content__img-inner'), {background: true}, () => document.body.classList.remove('loading'));
+}
